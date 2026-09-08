@@ -6,14 +6,27 @@ A beginner-friendly Python project that calculates a student's total score, aver
 
 This project was created as part of my journey to strengthen my Python programming fundamentals for Artificial Intelligence, Machine Learning, and Computer Science.
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 - Python 3
+- Pandas
 - Conditional statements
 - User input
 - Variables
 - Arithmetic operations
 - Basic data processing
+- Data analysis
+
+- ## 🛠️ Technologies
+
+- Python 3
+- Pandas
+- Conditional statements
+- User input
+- Variables
+- Arithmetic operations
+- Basic data processing
+- Data analysis
 
 📚 What I Learned
 
@@ -36,13 +49,15 @@ The program asks for:
 
 It then displays the student's total score, average, and grade.
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Add more subjects
 - Validate scores between 0 and 100
 - Support multiple students
-- Save results to a file
-- Add a graphical interface
+- Add more statistical analysis
+- Create data visualizations
+- Build a machine learning model
+- Develop a simple graphical interface
 
 👨‍💻 Author
 
